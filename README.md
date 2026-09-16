@@ -473,4 +473,4 @@ Source: https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-a
 
 **Nandhusri Rajaraman**
 
-B.Tech — Information Technology
+Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization | Business Analytics
