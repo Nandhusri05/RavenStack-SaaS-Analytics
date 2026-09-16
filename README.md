@@ -318,7 +318,7 @@ Global slicers:
 - Plan Tier
 - Industry
 
-![Executive Overview](images/01%20Executive%20Overview.png)
+![Executive Overview](./Images/01%20Executive%20Overview.png)
 
 ---
 
@@ -335,7 +335,7 @@ Includes:
 - Billing Frequency
 - Subscriptions by Month
 
-![Customer & Subscription Analysis](images/02%20Customer%20%26%20Subscription%20Analysis.png)
+![Customer & Subscription Analysis](./Images/02%20Customer%20&%20Subscription%20Analysis.png)
 
 ---
 
@@ -352,7 +352,7 @@ Includes:
 - Resolution Time by Priority
 - Customer Satisfaction by Priority
 
-![Product & Support](images/03%20Product%20%26%20Support.png)
+![Product & Support](./Images/03%20Product%20&%20Support.png)
 
 ---
 
@@ -369,7 +369,7 @@ Includes:
 - Support Tickets: Churned vs Active
 - Churned MRR Contribution by Plan
 
-![Churn & Retention Analysis](images/04%20Churn%20%26%20Retention%20Analysis.png)
+![Churn & Retention Analysis](./Images/04%20Churn%20&%20Retention%20Analysis.png)
 
 ---
 
